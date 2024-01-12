@@ -9,7 +9,7 @@
         .container{
     display: flex;
     flex-wrap: wrap;
-    margin-left: 70px;
+    margin-left: 60px;
     
 }
     </style>
