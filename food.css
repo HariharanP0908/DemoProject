@@ -1,0 +1,354 @@
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+h2:nth-of-type(1){
+    color: green;
+}
+h2:nth-of-type(2){
+    color: red;
+}
+.box1{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vbriyani.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    text-align: center;
+    margin: 10px;
+}
+.box1:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.box2{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vegmeals.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box2:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.box3{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vnoodles.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box3:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: lightcoral;
+}
+.box4{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vrice.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box4:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box5{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vmrice.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box5:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box6{
+    height: 300px;
+    width:350px;
+    background-image:url(food/vnoodles.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box6:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box7{
+    height: 300px;
+    width:350px;
+    background-image:url(food/cnoodles.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box7:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box8{
+    height: 300px;
+    width:350px;
+    background-image:url(food/crice.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box8:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box9{
+    height: 300px;
+    width:350px;
+    background-image:url(food/nmeals.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box9:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box10{
+    height: 300px;
+    width:350px;
+    background-image:url(food/nonbriyani.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box10:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box11{
+    height: 300px;
+    width:350px;
+    background-image:url(food/fishthali.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box11:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: lightcoral;
+}
+.box12{
+    height: 300px;
+    width:350px;
+    background-image:url(food/erice.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box12:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box13{
+    height: 300px;
+    width:350px;
+    background-image:url(food/baby65.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box13:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box14{
+    height: 300px;
+    width:350px;
+    background-image:url(food/gobi65.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box14:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box15{
+    height: 300px;
+    width:350px;
+    background-image:url(food/mushroom65.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box15:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box16{
+    height: 300px;
+    width:350px;
+    background-image:url(food/paneer65.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box16:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box17{
+    height: 300px;
+    width:350px;
+    background-image:url(food/chicken.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    transition: all 0.9s;
+    font-size: 2px;
+    margin: 10px;
+    text-align: center;
+}
+.box17:hover:hover{
+    height: 310px;
+    width:360px;
+    opacity: 1;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+.footer{
+    background-color: black;
+    color: antiquewhite;
+}

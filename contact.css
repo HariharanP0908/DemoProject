@@ -1,0 +1,69 @@
+.one{
+    margin-left: 80px;
+    margin-top: 90px;
+    padding: 3px;
+}
+.one img{
+    float: left;
+}
+.one p{
+    margin-left: 650px;
+    font-size: 30px;
+    padding: 10px;
+    color: lightskyblue;
+    margin-top: 1px;
+}
+h3{
+    font-size: 35px;
+    color: blue;
+}
+input[type="text"]{
+height: 100px;
+width: 500px;
+}
+button{
+    background-color: crimson;
+}
+input[type="name"]{
+    outline-offset: 30px;
+    
+}
+body{
+    background:linear-gradient(lightskyblue,lightgray,lightgreen);
+}
+button{
+background-color: green;
+margin-left:60px;
+height:40px;
+width:90px;
+margin-top:30px;
+}
+.table{
+margin-left:450px;
+
+box-shadow:3px 3px 1px 5px gray;
+width:700px;
+}
+input[type="name"]{
+outline:none;
+background:none;
+}
+.one p{
+margin-left: 650px;
+font-size: 30px;
+padding: 10px;
+color: black;
+margin-top: 1px;
+}
+input[type="email"]{
+outline:none;
+background:none;
+}
+input[type="number"]{
+outline:none;
+background:none;
+}
+input[type="text"]{
+outline:none;
+background:none;
+}

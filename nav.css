@@ -1,0 +1,28 @@
+ ul li a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    display: inline-block;
+    padding:2px;
+    color: red;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    text-align: center;
+}
+ul li{
+    float: left;
+    margin-top: 29px;
+    margin-left: 60px;
+}
+h1{
+    display: inline-block;
+    float:left;
+}
+ul li a:hover{
+    
+    font-weight: bolder;
+}

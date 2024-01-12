@@ -1,0 +1,43 @@
+.all{
+    background-color: red;
+}
+
+.one img{
+    height: 550px;
+    width: 1050px;
+    margin-left: 150px;
+    
+}
+.two img{
+    height: 300px;
+    width: 400px;
+    margin-left: 140px;
+}
+.two{
+border: 2px ;
+display: inline-block;
+    }
+    p{
+        font-size: 18px;
+        text-indent: 19px;
+        
+    }
+    .four{
+        padding: 0px;
+    }
+    .footer{
+        background-color: black;
+        color: antiquewhite;
+    }
+    #t1 img{
+        margin-left: 200px;
+    }
+    .footer{
+        background-color: black;
+        color: antiquewhite;
+        margin-top:5px;
+    }
+    body{
+        background-color:#d3e8e7;
+    }
+    

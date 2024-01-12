@@ -1,0 +1,54 @@
+
+body{
+    background-color: bisque;
+}
+.two{
+    width: 400px;
+    height: 230px;
+    background-color: aliceblue;
+    text-align: justify;
+    margin-top:130px;
+    margin-left: 500px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 50px 0 50px 0;
+    box-shadow: 5px 5px 1px 5px lightgray;
+}
+input[type="text"]{
+    outline: none;
+    margin: 15px;
+
+    
+}
+input[type="date"]{
+    outline: none;
+    margin: 15px;
+}
+input[type="number"]{
+    outline: none;
+    margin: 15px;
+}
+#button{
+    background-color: red;
+    color:beige ;
+    margin-top: 30px;
+    margin-left: 60px;
+    
+}
+#name,#date,#count  {
+    font-size: 20px;
+}
+marquee{
+    transition: 0.6s;
+}
+marquee:hover{
+color: brown;
+font-weight: bolder;
+}
+.footer{
+    background-color: black;
+    color: antiquewhite;
+}
+#adult{
+    font-size: 10px;
+}
